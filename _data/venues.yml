@@ -1,0 +1,41 @@
+"ICML":
+  url: https://icml.cc/
+  color: "#b31b1b"
+
+"TMLR":
+  url: https://jmlr.org/tmlr/
+  color: "#1f77b4"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"JTCVS":
+  url: https://www.jtcvs.org/
+  color: "#00369f"
+
+"Ann. Surg.":
+  url: https://journals.lww.com/annalsofsurgery/
+  color: "#00369f"
+
+"RECOMB":
+  url: https://recomb.org/
+  color: "#009f36"
+
+"ISBRA":
+  color: "#009f36"
+
+"ICMHI":
+  color: "#6f42c1"
+
+"BioMedInf.":
+  url: https://www.mdpi.com/journal/biomedinformatics
+  color: "#009f36"
+
+"AACR":
+  url: https://www.aacr.org/
+  color: "#00369f"
+
+"Res. Sq.":
+  url: https://www.researchsquare.com/
+  color: "#6c757d"
