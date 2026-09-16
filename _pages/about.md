@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -33,8 +33,8 @@ I am very fortunate to be supervised by Prof. Jing Li of the AI Center for Healt
 
 #### Experience
 
-- **Applied Scientist Intern**, Zillow Group &nbsp;·&nbsp; Jul. 2026 – Oct. 2026
-- **Staff Research Scientist Intern**, Visa Research, Foster City, CA &nbsp;·&nbsp; May 2026 – Jul. 2026
+- **Applied Scientist Intern**, Zillow Group &nbsp;·&nbsp; Jul. 27, 2026 – Oct. 2026
+- **Staff Research Scientist Intern**, Visa Research, Foster City, CA &nbsp;·&nbsp; May 5, 2026 – Jul. 2026
 - **Research Assistant**, Case Western Reserve University, Cleveland, OH &nbsp;·&nbsp; Aug. 2022 – Present
 
 #### Teaching
