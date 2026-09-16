@@ -2,16 +2,25 @@
 layout: page
 permalink: /service/
 title: service
-description: Professional service.
+description: Professional service as a program committee member and reviewer.
 nav: true
 nav_order: 2
 ---
 
-#### Reviewer
+#### Conference Program Committee / Reviewer
 
-- **2025**: ICLR, ICWSM, IJCNN, AAAI, CHIL
-- **2024**: NeurIPS
+- **2027**: AAAI
+- **2026**: ICML (Gold Reviewer), NeurIPS, ICLR, AAAI, CIKM, ICWSM, CHIL, IJCNN
+- **2025**: ICLR, CIKM, ICWSM, CHIL, IJCNN, LOG
 
-#### Program Committee Member
+#### Workshop Reviewer
 
-- **2025**: CIKM
+- **2026**: AAAI Workshop
+- **2025**: NeurIPS Workshop on Continual and Online Machine Learning (COML)
+- **2024**: NeurIPS Workshop on Foundation Models for Science (FM4Science)
+
+#### Journal Reviewer
+
+- Transactions on Machine Learning Research (TMLR)
+- BMC Anesthesiology
+- BMC Health Services Research
