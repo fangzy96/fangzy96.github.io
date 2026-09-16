@@ -6,7 +6,7 @@ subtitle: Ph.D. student in Computer Science, <a href="https://case.edu/">Case We
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Cleveland, OH</p>
