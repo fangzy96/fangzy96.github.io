@@ -22,5 +22,9 @@ nav_order: 2
 #### Journal Reviewer
 
 - Transactions on Machine Learning Research (TMLR)
+- Scientific Reports
+- Journal of Medical Systems
+- Journal of Cardiothoracic Surgery
 - BMC Anesthesiology
 - BMC Health Services Research
+- BMC Medical Informatics and Decision Making
