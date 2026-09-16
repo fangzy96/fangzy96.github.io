@@ -36,3 +36,9 @@ I am very fortunate to be supervised by Prof. Jing Li of the AI Center for Healt
 - **Applied Scientist Intern**, Zillow Group &nbsp;·&nbsp; Jul. 2026 – Oct. 2026
 - **Staff Research Scientist Intern**, Visa Research, Foster City, CA &nbsp;·&nbsp; May 2026 – Jul. 2026
 - **Research Assistant**, Case Western Reserve University, Cleveland, OH &nbsp;·&nbsp; Aug. 2022 – Present
+
+#### Teaching
+
+- **Teaching Assistant**, Introduction to Bioinformatics, Case Western Reserve University &nbsp;·&nbsp; Fall 2023
+- **Teaching Assistant**, Data Mining, Case Western Reserve University &nbsp;·&nbsp; Spring 2023
+- **Teaching Assistant**, Introduction to Bioinformatics, Case Western Reserve University &nbsp;·&nbsp; Fall 2022
