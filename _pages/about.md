@@ -25,7 +25,7 @@ latest_posts:
 
 I am a Ph.D. student in the Department of Computer Science at [Case Western Reserve University](https://case.edu/). My research interests include **Large Language Models**, **Generative AI**, **Deep Learning**, **Time-Series Data**, and **AI for Science**.
 
-I am very fortunate to be supervised by Prof. Jing Li of the AI Center for Health and Pandemic Preparedness from the School of Engineering and co-supervised by Prof. Xiao Li from the School of Medicine, at Case Western Reserve University.
+I am very fortunate to be advised by [Prof. Jing Li](https://case.edu/engineering/about/faculty-and-staff-directory/jing-li) from the Department of Computer and Data Sciences, Case School of Engineering, and co-advised by [Prof. Xiao Li](https://case.edu/medicine/biochemistry/faculty/xiao-li) from the Department of Biochemistry, Case School of Medicine, at Case Western Reserve University.
 
 #### Education
 
