@@ -27,4 +27,3 @@ nav_order: 2
 - Journal of Cardiothoracic Surgery
 - BMC Anesthesiology
 - BMC Health Services Research
-- BMC Medical Informatics and Decision Making
