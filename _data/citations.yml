@@ -1,6 +1,14 @@
 metadata:
-  last_updated: '2026-09-16'
+  last_updated: '2026-09-30'
 papers:
+  5wYTZt0AAAAJ:9Nmd_mFXekcC:
+    citations: 0
+    title: 'LastOPD: Taming Collapse in Latent On-Policy Distillation'
+    year: '2026'
+  5wYTZt0AAAAJ:uJ-U7cs_P_0C:
+    citations: 0
+    title: 'TimeEvo: Failure-Driven Self-Evolution of a Time Series Agent'
+    year: '2026'
   5wYTZt0AAAAJ:eJXPG6dFmWUC:
     citations: 5
     title: 'DrugLM: A unified framework to enhance drug–target interaction prediction by incorporating textual embeddings via language models'
@@ -21,9 +29,9 @@ papers:
     citations: 0
     title: 'Artificial intelligence-derived analysis of wearables-derived biometrics to characterize physiologic response to chemotherapy in solid organ cancers'
     year: '2026'
-  5wYTZt0AAAAJ:5Ul4iDaHHb8C:
+  5wYTZt0AAAAJ:XD-gHx7UXLsC:
     citations: 0
-    title: 'Joint Learning of Drug-Drug Combination and Drug-Drug Interaction via Coupled Tensor-Tensor Factorization with Side Information'
+    title: 'Joint Learning of Drug–Drug Combination and Drug–Drug Interaction via Coupled Tensor–Tensor Factorization with Side Information'
     year: '2026'
   5wYTZt0AAAAJ:8AbLer7MMksC:
     citations: 0
