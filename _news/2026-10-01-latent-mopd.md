@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New preprint: [Latent-MOPD: Latent Multi-Teacher On-Policy Distillation](https://arxiv.org/abs/2610.02381) (co-first author) is on arXiv.
+New preprint: [Latent-MOPD: Latent Multi-Teacher On-Policy Distillation](https://arxiv.org/abs/2610.02381) is on arXiv.
