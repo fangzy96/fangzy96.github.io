@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-09-30'
+  last_updated: '2026-10-06'
 papers:
+  5wYTZt0AAAAJ:nrtMV_XWKgEC:
+    citations: 0
+    title: 'PR-OPD: Privileged Representation On-policy Self-Distillation for Agentic Reinforcement Learning'
+    year: '2026'
   5wYTZt0AAAAJ:9Nmd_mFXekcC:
     citations: 0
     title: 'LastOPD: Taming Collapse in Latent On-Policy Distillation'
@@ -46,7 +50,7 @@ papers:
     title: 'NoteBar: An AI-Assisted Note-Taking System for Personal Knowledge Management'
     year: '2025'
   5wYTZt0AAAAJ:qjMakFHDy7sC:
-    citations: 5
+    citations: 6
     title: 'Dual-modality representation learning for molecular property prediction'
     year: '2025'
   5wYTZt0AAAAJ:sSrBHYA8nusC:
@@ -54,7 +58,7 @@ papers:
     title: 'Understanding and mitigating memorization in diffusion models for tabular data'
     year: '2025'
   5wYTZt0AAAAJ:uWQEDVKXjbEC:
-    citations: 16
+    citations: 17
     title: 'Recent developments in gnns for drug discovery'
     year: '2025'
   5wYTZt0AAAAJ:d1gkVwhDpl0C:
@@ -62,6 +66,6 @@ papers:
     title: 'Detection of opioid users from Reddit posts via an attention-based bidirectional recurrent neural network'
     year: '2024'
   5wYTZt0AAAAJ:u-x6o8ySG0sC:
-    citations: 23
+    citations: 24
     title: 'A pilot study using machine learning algorithms and wearable technology for the early detection of postoperative complications after cardiothoracic surgery'
     year: '2024'
