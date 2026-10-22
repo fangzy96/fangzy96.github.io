@@ -25,6 +25,7 @@ nav_order: 2
 - Scientific Reports
 - Journal of Medical Systems
 - Journal of Cardiothoracic Surgery
+- Perioperative Medicine
 - BMC Anesthesiology
 - BMC Health Services Research
 - BMC Medical Informatics and Decision Making
